@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 
+
+-->
 - 🔭 I’m currently working on ... Finals for Sping 24
 - 🌱 I’m currently learning ...Java MOOC
 - 👯 I’m looking to collaborate on ...Video Game projects
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...smileBrandon @ Discord
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Left handed
--->I love Korean Web Novels!
+- Also...I love Korean Web Novels!
